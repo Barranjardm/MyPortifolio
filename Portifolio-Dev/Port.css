@@ -1,0 +1,46 @@
+/* Contato */
+section#contact .contact-item.email .contact-icon {
+    color: #ffffff !important;
+    background-color: rgb(167, 13, 13) !important;
+    /* Vermelho Gmail */
+}
+
+.contact-item.location .contact-icon {
+    color: #ffffff;
+    background-color: #0077b5;
+    /* Laranja */
+}
+
+.contact-item.phone .contact-icon {
+    color: #f8fdfa;
+    background-color: #14c03c;
+    /* Verde */
+}
+
+/* Social Links */
+.social-links a.linkedin {
+    color: #0077b5;
+}
+
+.social-links a.github {
+    color: #181717;
+}
+
+.social-links a.instagram {
+    color: #e4405f;
+}
+
+.social-links a.linkedin:hover {
+    background: #0077b5;
+    color: #fff;
+}
+
+.social-links a.github:hover {
+    background: #181717;
+    color: #fff;
+}
+
+.social-links a.instagram:hover {
+    background: #e4405f;
+    color: #fff;
+}
